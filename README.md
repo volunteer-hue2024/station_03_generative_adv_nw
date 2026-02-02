@@ -1,12 +1,14 @@
-# station_03_generative_adv_nw
-# GAN
+# GAN -Generator Adversial Network 
+### - station 3
 
-Ex: Generator generates an image.
+Here we have 2 models .
+Generator generates an image.
 Discriminator decides if it is real or fake.
 Initially generator is not skilled, but in course of time ,generator can work  even alone.
 Discriminator can be said to be an image classifier.
+
 **GAN Architecture**
-Say a blank canvas.
+
 * **Success** is achieved when the "Fake" becomes indistinguishable from the "Real."
 
 * # Understanding GANs: Real vs. Fake

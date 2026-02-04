@@ -1,16 +1,18 @@
 # GAN -Generator Adversarial Network  
 
-Here we have 2 models .
-Generator generates an image.
-Discriminator decides if it is real or fake.
-Initially generator is not skilled, but in course of time ,generator can work  even alone.
-Discriminator can be said to be an image classifier.
+* ### Understanding GANs: Real vs. Fake
+
+      We have 2 models here.
+      Generator generates an image.
+      Discriminator decides if it is real or fake.
+      Initially generator is not skilled, but in course of time ,generator can work  even alone.
+      Discriminator can be said to be an image classifier.
 
 **GAN Architecture**
 
 * **Success** is achieved when the "Fake" becomes indistinguishable from the "Real."
 
-* # Understanding GANs: Real vs. Fake
+
 
 ## 1. Overview
 In a GAN architecture, the learning process is driven by a competitive "Minimax" game between two neural networks: the **Generator** (the forger) and the **Discriminator** (the judge).

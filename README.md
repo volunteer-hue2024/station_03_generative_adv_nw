@@ -57,7 +57,7 @@ $$\min_{G} \max_{D} V(D, G) = \mathbb{E}_{x \sim p_{data}(x)} [\log D(x)] + \mat
 
 ### 👉 1. [Click here to view Functional Algorithm for GAN](./Readme_face_generation_withGAN.md) 
 [Click for code](./Face_Generation_with_GAN.ipynb)
-### 👇 2. Functional Algorithm using a pre-trained model
+### 👇 2. Below is the Functional Algorithm for GAN that uses a pretrained generator model
 [click for code ](./10_Creative_AI_Generating_Art_with_Neural_Style_Transfer___Inference.ipynb)
 The program follows a streamlined process for generating synthetic images using a pre-trained model:
 
